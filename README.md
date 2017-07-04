@@ -16,11 +16,11 @@ CS 1110 or equivalent (or instructor permission).
 ### Instructors
 Srikanth Chelluri (B.S. Computer Engineering, Engineering Business Minor),
 [sc5ba@virginia.edu](mailto:sc5ba@virginia.edu),
-Graduating December 2017
+graduating December 2017
 
 Nikhil Gupta (B.S. Computer Science, Engineering Business Minor),
 [ng3br@virginia.edu](mailto:ng3br@virginia.edu),
-Graduating May 2018
+graduating May 2018
 
 We’ve taken several courses in the computer science department; interned at a few different software engineering companies; and built and currently manage a course organization tool for students at the University:  [www.uvaschedule.me](www.uvaschedule.me).
 
