@@ -43,18 +43,18 @@ There should be an excess of 120 points over the course of the semester. Getting
 
 | Week 	|                       Topics                      	|
 |:----:	|:-------------------------------------------------:	|
-|   1  	|                    UNIX Basics                    	|
-|   2  	|            Version Control and Workflow           	|
-|   3  	| Choosing a Project and Framework Package Managers 	|
-|   4  	|                  MVC Architecture                 	|
-|   5  	|             HTML, CSS, and JavaScript             	|
-|   6  	|           Frontend Principles and Tools           	|
-|   7  	|                     Databases                     	|
-|   8  	|                    RESTful APIs                   	|
-|   9  	|      Communication between Application Layers     	|
-|  10  	|               Deployment and Scaling              	|
-|  11  	|                 Industry Practices                	|
-|  12  	|       (determined based on student interest)      	|
+|   1  	| Version control and workflow                    	  |
+|   2  	| How websites work (HTML, CSS, JavaScript)           |
+|   3  	| Choosing a project and framework, package managers 	|
+|   4  	| MVC architecture                                  	|
+|   5  	| Frontend principles and tools                     	|
+|   6  	| Testing                                             |
+|   7  	| Databases                                           |
+|   8  	| RESTful APIs                                        |
+|   9  	| Communication between application layers           	|
+|  10  	| Deployment and scaling                              |
+|  11  	| Industry practices                                  |
+|  12  	| (determined based on student interests)            	|
 
 **Week 1**: We’ll provide a brief introduction of the course, then delve into version control - primarily focusing on Git. We’ll learn about the network/graph nature of version control and how to do lots more than just pushing new changes. We’ll also discuss general coding workflow (ticket tracking, online tools like StackOverflow, and how it works in industries and with teams).
 
