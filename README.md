@@ -72,7 +72,7 @@ There should be an excess of 120 points over the course of the semester. Getting
 
 **Week 6**: We’ll talk about testing. We’ll discuss why it’s important, how to write good tests, and what industry is doing now. We’ll discuss continuous integration this week as well.
 
-**Week 7**: This lecture will be focused on the basic relational database structure. We’ll talk about the difference between NoSQL and SQL, and others common database topics.
+**Week 7**: This lecture will be focused on the basic relational database structure. We’ll talk about the difference between NoSQL and SQL, and other common database topics.
 
 **Week 8**: We’ll discuss what APIs are and the excitement around RESTful APIs. We’ll share good practices and the tools that are out there when developing APIs.
 
