@@ -1,6 +1,10 @@
 # CS 1501 - Tools of the Trade (Web)
 This repository contains general course information. It is subject to change.
 
+Attendance link (Google Form): [https://goo.gl/A1Mdoz](https://goo.gl/A1Mdoz).
+
+Course materials link (Google Drive): [https://goo.gl/AMBwq7](https://goo.gl/AMBwq7).
+
 ---
 
 ### Course Description
