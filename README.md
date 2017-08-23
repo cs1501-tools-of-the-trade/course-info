@@ -37,9 +37,9 @@ None. If reading is required, it'll be availabile online and we'll provide the l
 
 ### Grading policies
 Class attendance is 10 points per lecture.
-Small homework assignments will be worth a variable number of points, from 0 up to 10.
+If we have homework, they'll be worth a variable number of points - from 0 up to 10.
 
-There should be an excess of 120 points over the course of the semester. Getting above a 75% of however many points there are entails a passing grade.
+Getting above a 75% of however many points we have this semester entails a passing grade.
 
 ---
 
