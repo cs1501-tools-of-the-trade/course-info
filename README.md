@@ -37,7 +37,7 @@ None. If reading is required, it'll be availabile online and we'll provide the l
 
 ### Grading policies
 Class attendance is 10 points per lecture.
-If we have homework, assignments be worth a variable number of points - from 0 up to 10.
+If we have homework, assignments will be worth a variable number of points - from 0 up to 10.
 
 Getting above a 75% of however many points we have this semester entails a passing grade.
 
@@ -60,6 +60,8 @@ Getting above a 75% of however many points we have this semester entails a passi
 |  11  	| Industry practices                                  |
 |  12  	| (determined based on student interests)            	|
 
+There may be more than (or fewer than) 12 weeks this semester. We will adjust the schedule as needed and update it here.
+
 **Week 1**: We’ll provide a brief introduction of the course, then delve into version control - primarily focusing on Git. We’ll learn about the network/graph nature of version control and how to do lots more than just pushing new changes. We’ll also discuss general coding workflow (ticket tracking, online tools like StackOverflow, and how it works in industries and with teams).
 
 **Week 2**: We’ll talk about web languages as a whole. We’ll understand how different languages are used for different purposes and how they complement each other.
@@ -68,11 +70,11 @@ Getting above a 75% of however many points we have this semester entails a passi
 
 **Week 4**: We’ll discuss the common model-view-controller (MVC) architecture. Students will learn what it is, how it works, and why it is such an ubiquitous architecture in the real world. We’ll focus on Django’s implementation of this, as many higher-level classes use Django.
 
-**Week 5**: We’ll talk about the importance of frontend design. We’ll discuss commonly agreed-upon principles of today, as well as the frameworks and tools that are out there to help frontend work easier.
+**Week 5**: We’ll talk about the importance of frontend design. We’ll discuss agreed-upon principles of today, as well as the frameworks and tools that are out there that help make frontend work easier.
 
 **Week 6**: We’ll talk about testing. We’ll discuss why it’s important, how to write good tests, and what industry is doing now. We’ll discuss continuous integration this week as well.
 
-**Week 7**: This lecture will be focused on the basic relational database structure. We’ll talk about the difference between NoSQL and SQL, and other common database topics.
+**Week 7**: We'll discuss the basic relational database structure. We’ll talk about the difference between NoSQL and SQL, and other common database topics.
 
 **Week 8**: We’ll discuss what APIs are and the excitement around RESTful APIs. We’ll share good practices and the tools that are out there when developing APIs.
 
@@ -80,6 +82,6 @@ Getting above a 75% of however many points we have this semester entails a passi
 
 **Week 10**: We are going to discuss deploying your application to the world. We’ll talk about the services out there (PaaS) and we’ll briefly discuss security, staging branches, and general management when it’s live. We will also talk about scaling the application based on load.
 
-**Week 11**: We’ll use this lecture to talk about industry practices we’ve learned. We’ll discuss how features moves from mere ideas to actual users’ screens. We’ll discuss team structure, alpha/beta testing, and more.
+**Week 11**: We’ll use this lecture to talk about industry practices we’ve learned. We’ll discuss how features move from mere ideas to actual users’ screens. We’ll discuss team structure, alpha/beta testing, and more.
 
-**Week 12**: This class will be decided based on what students think is most important. We’ll take a poll to see which topic is of most interest to the class as a whole.
+**Week 12**: The topic for this class will be decided based on what students think is most important. We’ll take a poll to see which topic is of most interest to the class as a whole.
