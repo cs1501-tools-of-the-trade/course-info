@@ -37,7 +37,7 @@ None. If reading is required, it'll be availabile online and we'll provide the l
 
 ### Grading policies
 Class attendance is 10 points per lecture.
-If we have homework, they'll be worth a variable number of points - from 0 up to 10.
+If we have homework, assignments be worth a variable number of points - from 0 up to 10.
 
 Getting above a 75% of however many points we have this semester entails a passing grade.
 
@@ -66,7 +66,7 @@ Getting above a 75% of however many points we have this semester entails a passi
 
 **Week 3**: We’ll talk about project frameworks and package managers to simplify and organize workflow. This is when students pick a project or decide to follow along with the demo project.
 
-**Week 4**: We’ll discuss the common model-view-controller (MVC) architecture. Students will learn what it is, how it works, and why it is such a ubiquitous architecture in the real world. We’ll focus on Django’s implementation of this, as many higher-level classes use Django.
+**Week 4**: We’ll discuss the common model-view-controller (MVC) architecture. Students will learn what it is, how it works, and why it is such an ubiquitous architecture in the real world. We’ll focus on Django’s implementation of this, as many higher-level classes use Django.
 
 **Week 5**: We’ll talk about the importance of frontend design. We’ll discuss commonly agreed-upon principles of today, as well as the frameworks and tools that are out there to help frontend work easier.
 
