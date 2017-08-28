@@ -26,7 +26,7 @@ Nikhil Gupta (B.S. Computer Science, Engineering Business Minor),
 [ng3br@virginia.edu](mailto:ng3br@virginia.edu),
 graduating May 2018
 
-We’ve taken several courses in the computer science department; interned at a few different software engineering companies; and built and currently manage a course organization tool for students at the University:  [www.uvaschedule.me](www.uvaschedule.me).
+We’ve taken several courses in the computer science department; interned at a few different software engineering companies; and built and currently manage a course organization tool for students at the University:  [www.uvaschedule.me](https://www.uvaschedule.me).
 
 ### Faculty advisor
 Professor Tom Pinckney,
