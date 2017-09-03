@@ -48,8 +48,8 @@ Getting above a 75% of however many points we have this semester entails a passi
 | Week 	|                       Topics                        |
 |:----:	|:-------------------------------------------------:  |
 |   1  	| Version control and workflow                        |
-|   2  	| Project/framework, package managers, MVC	          |
-|   3  	| How websites work (HTML, CSS, JavaScript)           |
+|   2  	| How modern web applications work                    |
+|   3  	| Web languages (HTML, CSS, JavaScript)               |
 |   4  	| Frontend principles and tools                       |
 |   5  	| ...                                                 |
 |   6  	| Testing                                             |
