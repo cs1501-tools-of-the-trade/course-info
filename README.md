@@ -50,11 +50,11 @@ Getting above a 75% of however many points we have this semester entails a passi
 |   1  	| Version control and workflow                        |
 |   2  	| How modern web applications work                    |
 |   3  	| Markup languages (HTML, CSS) and FE principles      |
-|   4  	| Databases?                                          |
-|   5  	| Client-side scripting (JavaScript)                  |
-|   6  	| Testing                                             |
-|   7  	| ...                                                 |
-|   8  	| RESTful APIs                                        |
+|   4  	| Databases (1)                                       |
+|   5  	| Databases (2)                                       |
+|   6  	| RESTful APIs                                        |
+|   7  	| Client-side scripting (JavaScript)                  |
+|   8  	| Testing                                             |
 |   9  	| Communication between application layers           	|
 |  10  	| Deployment and scaling                              |
 |  11  	| Industry practices                                  |
